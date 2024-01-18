@@ -1,0 +1,6 @@
+httpx==0.26.0
+pywebview==4.4.1
+pyperclip==1.8.2
+PyAutoGUI==0.9.54
+plyer==2.1.0
+Pymem==1.13.1
